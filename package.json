@@ -13,7 +13,7 @@
     "commander": "1.0.4",
     "color-parser": "0.1.0",
     "hsb2rgb": "1.0.2",
-    "mime": "1.2.9",
+    "mime": "2.4.6",
     "debug": "*",
     "rework-inherit": "0.2.1",
     "rework-visit": "1.0.0"
